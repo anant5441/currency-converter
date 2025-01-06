@@ -14,10 +14,6 @@ A simple web application for converting between different currencies using real-
 
 ---
 
-## Demo
-![Currency Converter Screenshot](fetchapi/currencyConvertor/Screenshot 2025-01-06 224124.png)
-
----
 
 ## Technologies Used
 
